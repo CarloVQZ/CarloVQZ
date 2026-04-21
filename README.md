@@ -1,16 +1,44 @@
-## Hi there 👋
+# Juan Carlos Hernández Vázquez
 
-<!--
-**CarloVQZ/CarloVQZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer enfocado en backend, análisis de datos y sistemas escalables.  
+Experiencia construyendo APIs, dashboards y soluciones integradas con hardware.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Enfoque
+- Desarrollo de APIs REST y servicios backend  
+- Procesamiento y análisis de datos  
+- Integración de sistemas (web + IoT)  
+- Arquitectura escalable y mantenible  
+
+---
+
+## Stack Tecnológico
+
+**Frontend**  
+JavaScript · TypeScript · React · HTML · CSS · Bootstrap  
+
+**Mobile**  
+Flutter · Expo (React Native)  
+
+**Backend**  
+Node.js · Express · Python · FastAPI · Flask · PHP  
+
+**Bases de datos**  
+MongoDB · PostgreSQL · MySQL · SQLite  
+
+**IoT / Hardware**  
+C++ (ESP32 / Arduino)  
+
+**Herramientas**  
+Git · Docker · Cloudflare  
+
+**Data & Visualización**  
+Pandas · Plotly · Chart.js · Streamlit  
+
+**Testing & Otros**  
+Jest · Selenium · WebSockets · OpenSSL  
+
+
+## Contacto
+[Email](mailto:carlosvqz@gmail.com)  
