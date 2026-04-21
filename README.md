@@ -1,6 +1,6 @@
 # Juan Carlos Hernández Vázquez
 
-Full Stack Developer enfocado en backend, análisis de datos y sistemas escalables.  
+Full Stack Developer enfocado en backend, automatización de procesos, análisis de datos y sistemas escalables.  
 Experiencia construyendo APIs, dashboards y soluciones integradas con hardware.
 
 ---
